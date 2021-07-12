@@ -1,6 +1,7 @@
 // global variables
 const allPosts = [];
 // end of section
+//special module for tolowerCase functions
 const _ = require("lodash");
 const express = require("express");
 const bodyParser = require("body-parser");
